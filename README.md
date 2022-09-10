@@ -1,5 +1,5 @@
 # Data-Visualisation-and-BI
-Data manipulations and visualisations to draw meaningful insights from structured and unstructured data, done using Business Analysis tools 
+Data manipulations and visualisations to draw meaningful insights from structured and unstructured data, done using Business Analysis tools (Tableau and Microsoft Power BI).
 
 Check out the visualisations, dashboards and stories created by me as below:
 
